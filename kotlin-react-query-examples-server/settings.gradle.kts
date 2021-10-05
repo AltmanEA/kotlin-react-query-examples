@@ -1,0 +1,1 @@
+rootProject.name = "ru.altmanea.kotlin-react-query-examples-server"
