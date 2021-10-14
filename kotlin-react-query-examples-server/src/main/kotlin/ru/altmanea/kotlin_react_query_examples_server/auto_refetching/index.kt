@@ -1,4 +1,4 @@
-package ru.altmanea.kotlin_react_query_examples_server
+package ru.altmanea.kotlin_react_query_examples_server.auto_refetching
 
 import io.ktor.application.*
 import io.ktor.response.*

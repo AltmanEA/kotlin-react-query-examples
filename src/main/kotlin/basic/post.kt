@@ -9,7 +9,6 @@ import react.dom.div
 import react.dom.h1
 import react.dom.p
 import react.fc
-import react.query.QueryFunction
 import react.query.useQuery
 import wrappers.AxiosResponse
 import wrappers.QueryError
